@@ -11,6 +11,7 @@
 		<MultiComboBox
 			selectionChange="handleSelectionChange"
 			selectionFinish="handleSelectionFinish"
+			selectedKeys="HT-2001,HT-1251,HT-2000,HT-1252"
 			width="500px"
 			items="{
 				path: '/ProductCollection',
